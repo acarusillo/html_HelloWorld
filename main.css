@@ -6,3 +6,11 @@ body {
     background-color: #333;
     color: whitesmoke;
 }
+
+a {
+    color: aliceblue;
+}
+
+a:visited {
+    color: lightgray;
+}
